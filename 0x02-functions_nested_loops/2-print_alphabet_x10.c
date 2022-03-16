@@ -21,6 +21,6 @@ letter++;
 }
 _putchar('\n');
 
-round++
+round++;
 }
 }
