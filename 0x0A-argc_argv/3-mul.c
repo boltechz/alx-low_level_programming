@@ -4,7 +4,7 @@
  * main - multiplies two numbers.
  * @argc: number of command line arguments.
  * @argv: array tha contains the program command line arguments.
- * Retuen: 0 - success.
+ * Return: 0 - success.
  */
 int main(int argc, char *argv[])
 {
@@ -16,4 +16,3 @@ return (1);
 printf("%d\n", atoi(argv[1] * atoi(argv[2]));
 return (0);
 }
-
